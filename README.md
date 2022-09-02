@@ -1,6 +1,7 @@
 # Acoustic3DCNN: 3D Convolution Neural Network-based Identification of 3D acoustic image of benthic organisms in shallow marine sediments
 
 - 門井さんへ
+  - git clone Acoustic3DCNNして, Acoustic3DCNNに移動してください.
   - dataとfigディレクトリを作成してください
   - level02の/data1/Acoustic3D_dataの中にある, 音響データControl Hydrobiaulvae Macoma Mixを上で作ったdataディレクトリにコピーしてください
   - python 3D_CNN_train_test_visualization.pyで全てが走ります. つまり, データ読み込み, 3クラス分類の5fold CVの訓練とテスト, Grad-CAMによる可視化が行われます.
