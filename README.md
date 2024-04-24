@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/408363313.svg)](https://zenodo.org/doi/10.5281/zenodo.5564884)
+
 # Acoustic3DCNN: 3D Convolution Neural Network-based Identification of 3D acoustic image of benthic organisms in shallow marine sediments
 
 
